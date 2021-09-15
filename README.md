@@ -1,4 +1,19 @@
 # Data Analysis and Visualisation
+The collection, transformation, and organization of data to draw conclusions make predictions for the future, and make informed data-driven decisions is called Data Analysis. The profession that handles data analysis is called a Data Analyst.There is a huge demand for Data Analysts as the data is expanding rapidly nowadays. Data Analysis is used to find possible solutions for a business problem. The advantage of being a Data Analyst is that they can work in any field they love: healthcare, agriculture, IT, finance, business. Data-driven decision-making is an important part of Data Analysis. It makes the analysis process much easier. 
+##There are six steps for Data
+
+Ask or Specify Data Requirements
+
+Prepare or Collect Data
+
+Clean and Process
+
+Analyze 
+
+Share
+
+Act or Report
+
 ## Python
 [Titanic Dataset - Exploratory Analysis](https://github.com/goutam63/Data-analytics-/blob/main/Titanic%20Dataset%20-%20Exploratory%20Analysis.ipynb): Exploratory Analysis of the passengers onboard RMS Titanic using Pandas and Seaborn visualisations.	
 
