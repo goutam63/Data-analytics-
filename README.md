@@ -43,7 +43,7 @@ The fifth step is Share. Nothing is more compelling than a visualization. The da
 
 The final/sixth step is Act. After a presentation is given based on your findings, the stakeholders discuss whether to move forward or not. If they agreed to your recommendations, they move further with your solutions. If they don’t agree with your findings,  you will have to dig deeper to find more possible solutions. Every step has to be re-organized. We have to repeat every step to see whether there are any gaps in there. The data collected must be reviewed to see if there is any bias and identify options. After the gaps are identified and the data is analyzed, a presentation is given again.
 
-## Python
+## data analysis Python project 
 [Titanic Dataset - Exploratory Analysis](https://github.com/goutam63/Data-analytics-/blob/main/Titanic%20Dataset%20-%20Exploratory%20Analysis.ipynb): Exploratory Analysis of the passengers onboard RMS Titanic using Pandas and Seaborn visualisations.	
 
 [Stock Market Analysis for Tech Stocks](https://github.com/goutam63/Data-analytics-/blob/main/Stock%20Market%20Analysis%20for%20Tech%20Stocks.ipynb): Analysis of technology stocks including change in price over time, daily returns, and stock behaviour prediction.
@@ -51,3 +51,8 @@ The final/sixth step is Act. After a presentation is given based on your finding
 [2016 US General Election Poll Data Analysis](https://github.com/goutam63/Data-analytics-/blob/main/2016%20General%20Election%20Poll%20Analysis.ipynb): Very simple analysis of 2016 US General Election Poll data.
 
 [911 Calls - Exploratory Analysis](https://github.com/goutam63/Data-analytics-/blob/main/911%20Calls%20-%20Exploratory%20Analysis.ipynb): Exploratory Data Analysis of the 911 calls dataset hosted on Kaggle. Demonstrates extraction of useful features from different variables.
+
+[Fuel economy data - data analysis](https://github.com/goutam63/Data-analytics-/tree/main/Data%20Analytics%20with%20Fuel%20Economy%20Data):The fuel economy of an automobile is the fuel efficiency relationship between the distance traveled and the amount of fuel consumed by the vehicle. Consumption can be expressed in terms of volume of fuel to travel a distance, or the distance travelled per unit volume of fuel consumed.
+
+[movie data data analysis](https://github.com/goutam63/Data-analytics-/tree/main/Data%20Analytics%20with%20Movie%20Data):data analysis on the movie data 
+
