@@ -1,5 +1,6 @@
 # Data Analysis and Visualisation
 The collection, transformation, and organization of data to draw conclusions make predictions for the future, and make informed data-driven decisions is called Data Analysis. The profession that handles data analysis is called a Data Analyst.There is a huge demand for Data Analysts as the data is expanding rapidly nowadays. Data Analysis is used to find possible solutions for a business problem. The advantage of being a Data Analyst is that they can work in any field they love: healthcare, agriculture, IT, finance, business. Data-driven decision-making is an important part of Data Analysis. It makes the analysis process much easier. 
+
 ##There are six steps for Data
 
 Ask or Specify Data Requirements
